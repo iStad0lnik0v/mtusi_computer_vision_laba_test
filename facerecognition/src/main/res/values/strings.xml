@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">МТУСИ распознаватель</string>
+    <string name="BLANK"></string>
+    <string name="STrain">Обучение</string>
+    <string name="SViewAll">Показать список лиц</string>
+    <string name="SSearch">Поиск</string>
+    <string name="SDelete">Удалить</string>
+    <string name="SEnter">Введите имя лица, затем нажмите записать</string>
+    <string name="SStopTrain">Остановить обучение</string>
+    <string name="SStopSearch">Остановить поиск</string>
+    <string name="Straininig">Обучение</string>
+    <string name="SCanntoPredic">Требуется более одного лица</string>
+    <string name="SIdle">Ожидание</string>
+    <string name="SFaceName">Имя лица:</string>
+    <string name="SSearching">Поиск</string>
+    <string name="SFrontCamera">Фронтальная камера</string>
+    <string name="SBackCamera">Задняя камера</string>
+    <string name="training">Обучение</string>
+    <string name="recognize">Распознавание</string>
+    <string name="capture">Захват</string>
+    <string name="image_preview">Превью картинки</string>
+    <string name="capturing">Захват</string>
+    <string name="results">Распознанные лица</string>
+    <string name="scan">скан</string>
+    <string name="scanning">Сканирование...</string>
+    <string name="next">Следующий</string>
+    <string name="please_enter_the_same_name_for_the_same_person_everytime_you_train_that_person">Пожалуйста, вводите одно и то же имя для того же лица каждый раз, когда вы тренируете этого человека</string>
+    <string name="who_are_you_going_to_train">Какое лицо вы собираетесь распознать?</string>
+    <string name="commit_attendance">Отправить</string>
+    <string name="give_attendance">Получить</string>
+    <string name="mark_attendance">Отметить</string>
+</resources>
